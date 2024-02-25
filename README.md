@@ -1,6 +1,14 @@
 # Angular Task Tracker
 
+<img width="650" alt="image" src="https://github.com/denys-petryniak/angular-task-tracker/assets/16530588/0d7cde33-68db-4bb2-aef1-ca20969ccd78">
+
+## Explore in StackBlitz
+
+Click the button below to open the project in StackBlitz for preview and experimentation:
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/denys-petryniak/angular-task-tracker)
+
+Feel free to explore the code, make changes, and see the results in real-time!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
